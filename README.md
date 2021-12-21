@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @digbycampbell
+- 👀 I’m interested in Bitcoin
+- 🌱 I’m currently learning GitHub
+- 💞️ I’m looking to collaborate on Bitcoin Mining
+- 📫 How to reach me @digbycampbell
